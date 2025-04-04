@@ -22,7 +22,7 @@ repository               : "academicpages/spencerrhea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/head_shot.JPG"
   name             : "Spencer Rhea"
   pronouns         : # example: "she/her"  
   bio              : "aquatic ecosystem ecology and biogeochemistry"
